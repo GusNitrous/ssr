@@ -3684,6 +3684,25 @@ __metadata:
   languageName: node
   linkType: hard
 
+"react-csr-app-shell@workspace:lection-2/react-csr-app-shell":
+  version: 0.0.0-use.local
+  resolution: "react-csr-app-shell@workspace:lection-2/react-csr-app-shell"
+  dependencies:
+    "@types/express": "npm:^5"
+    "@types/react": "npm:^19.1.2"
+    "@types/react-dom": "npm:^19.1.3"
+    express: "npm:^5.1.0"
+    nodemon: "npm:^3.1.10"
+    react: "npm:^19.1.0"
+    react-dom: "npm:^19.1.0"
+    ts-node: "npm:^10.9.2"
+    typescript: "npm:^5.8.3"
+    vite: "npm:^6.3.4"
+    vite-plugin-ssr: "npm:^0.4.142"
+    vite-tsconfig-paths: "npm:^5.1.4"
+  languageName: unknown
+  linkType: soft
+
 "react-csr@workspace:lection-1/react-csr":
   version: 0.0.0-use.local
   resolution: "react-csr@workspace:lection-1/react-csr"
@@ -3710,6 +3729,155 @@ __metadata:
   checksum: 10c0/3e26e89bb6c67c9a6aa86cb888c7a7f8258f2e347a6d2a15299c17eb16e04c19194e3452bc3255bd34000a61e45e2cb51e46292392340432f133e5a5d2dfb5fc
   languageName: node
   linkType: hard
+
+"react-isr@workspace:lection-2/react-isr":
+  version: 0.0.0-use.local
+  resolution: "react-isr@workspace:lection-2/react-isr"
+  dependencies:
+    "@types/express": "npm:^5"
+    "@types/react": "npm:^19.1.2"
+    "@types/react-dom": "npm:^19.1.3"
+    express: "npm:^5.1.0"
+    nodemon: "npm:^3.1.10"
+    react: "npm:^19.1.0"
+    react-dom: "npm:^19.1.0"
+    ts-node: "npm:^10.9.2"
+    typescript: "npm:^5.8.3"
+    vite: "npm:^6.3.4"
+    vite-plugin-ssr: "npm:^0.4.142"
+    vite-tsconfig-paths: "npm:^5.1.4"
+  languageName: unknown
+  linkType: soft
+
+"react-partial-ssg@workspace:lection-2/react-partial-ssg":
+  version: 0.0.0-use.local
+  resolution: "react-partial-ssg@workspace:lection-2/react-partial-ssg"
+  dependencies:
+    "@types/express": "npm:^5"
+    "@types/react": "npm:^19.1.2"
+    "@types/react-dom": "npm:^19.1.3"
+    express: "npm:^5.1.0"
+    nodemon: "npm:^3.1.10"
+    react: "npm:^19.1.0"
+    react-dom: "npm:^19.1.0"
+    ts-node: "npm:^10.9.2"
+    typescript: "npm:^5.8.3"
+    vite: "npm:^6.3.4"
+    vite-plugin-ssr: "npm:^0.4.142"
+    vite-tsconfig-paths: "npm:^5.1.4"
+  languageName: unknown
+  linkType: soft
+
+"react-ssg@workspace:lection-2/react-ssg":
+  version: 0.0.0-use.local
+  resolution: "react-ssg@workspace:lection-2/react-ssg"
+  dependencies:
+    "@types/express": "npm:^5"
+    "@types/react": "npm:^19.1.2"
+    "@types/react-dom": "npm:^19.1.3"
+    express: "npm:^5.1.0"
+    nodemon: "npm:^3.1.10"
+    react: "npm:^19.1.0"
+    react-dom: "npm:^19.1.0"
+    ts-node: "npm:^10.9.2"
+    typescript: "npm:^5.8.3"
+    vite: "npm:^6.3.4"
+    vite-plugin-ssr: "npm:^0.4.142"
+    vite-tsconfig-paths: "npm:^5.1.4"
+  languageName: unknown
+  linkType: soft
+
+"react-ssi@workspace:lection-2/react-ssi":
+  version: 0.0.0-use.local
+  resolution: "react-ssi@workspace:lection-2/react-ssi"
+  dependencies:
+    "@types/express": "npm:^5"
+    "@types/react": "npm:^19.1.2"
+    "@types/react-dom": "npm:^19.1.3"
+    express: "npm:^5.1.0"
+    react: "npm:^19.1.0"
+    react-dom: "npm:^19.1.0"
+    typescript: "npm:^5.8.3"
+    vite: "npm:^6.3.4"
+    vite-tsconfig-paths: "npm:^5.1.4"
+  languageName: unknown
+  linkType: soft
+
+"react-ssr-cache@workspace:lection-2/react-ssr-cache":
+  version: 0.0.0-use.local
+  resolution: "react-ssr-cache@workspace:lection-2/react-ssr-cache"
+  dependencies:
+    "@types/express": "npm:^5"
+    "@types/react": "npm:^19.1.2"
+    "@types/react-dom": "npm:^19.1.3"
+    express: "npm:^5.1.0"
+    nodemon: "npm:^3.1.10"
+    react: "npm:^19.1.0"
+    react-dom: "npm:^19.1.0"
+    ts-node: "npm:^10.9.2"
+    typescript: "npm:^5.8.3"
+    vite: "npm:^6.3.4"
+    vite-plugin-ssr: "npm:^0.4.142"
+    vite-tsconfig-paths: "npm:^5.1.4"
+  languageName: unknown
+  linkType: soft
+
+"react-ssr-slow-render@workspace:lection-2/react-ssr-slow-render":
+  version: 0.0.0-use.local
+  resolution: "react-ssr-slow-render@workspace:lection-2/react-ssr-slow-render"
+  dependencies:
+    "@types/express": "npm:^5"
+    "@types/react": "npm:^19.1.2"
+    "@types/react-dom": "npm:^19.1.3"
+    express: "npm:^5.1.0"
+    nodemon: "npm:^3.1.10"
+    react: "npm:^19.1.0"
+    react-dom: "npm:^19.1.0"
+    ts-node: "npm:^10.9.2"
+    typescript: "npm:^5.8.3"
+    vite: "npm:^6.3.4"
+    vite-plugin-ssr: "npm:^0.4.142"
+    vite-tsconfig-paths: "npm:^5.1.4"
+  languageName: unknown
+  linkType: soft
+
+"react-ssr-slow-request@workspace:lection-2/react-ssr-slow-request":
+  version: 0.0.0-use.local
+  resolution: "react-ssr-slow-request@workspace:lection-2/react-ssr-slow-request"
+  dependencies:
+    "@types/express": "npm:^5"
+    "@types/react": "npm:^19.1.2"
+    "@types/react-dom": "npm:^19.1.3"
+    express: "npm:^5.1.0"
+    nodemon: "npm:^3.1.10"
+    react: "npm:^19.1.0"
+    react-dom: "npm:^19.1.0"
+    ts-node: "npm:^10.9.2"
+    typescript: "npm:^5.8.3"
+    vite: "npm:^6.3.4"
+    vite-plugin-ssr: "npm:^0.4.142"
+    vite-tsconfig-paths: "npm:^5.1.4"
+  languageName: unknown
+  linkType: soft
+
+"react-ssr-stream@workspace:lection-2/react-ssr-stream":
+  version: 0.0.0-use.local
+  resolution: "react-ssr-stream@workspace:lection-2/react-ssr-stream"
+  dependencies:
+    "@types/express": "npm:^5"
+    "@types/react": "npm:^19.1.2"
+    "@types/react-dom": "npm:^19.1.3"
+    express: "npm:^5.1.0"
+    nodemon: "npm:^3.1.10"
+    react: "npm:^19.1.0"
+    react-dom: "npm:^19.1.0"
+    ts-node: "npm:^10.9.2"
+    typescript: "npm:^5.8.3"
+    vite: "npm:^6.3.4"
+    vite-plugin-ssr: "npm:^0.4.142"
+    vite-tsconfig-paths: "npm:^5.1.4"
+  languageName: unknown
+  linkType: soft
 
 "react-ssr@workspace:lection-1/react-ssr":
   version: 0.0.0-use.local
